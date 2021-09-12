@@ -22,7 +22,7 @@ function App() {
 
         </div>
         <div className="py-3">
-          <h2 className="text-primary">Todas as vendas</h2>
+          <h2 className="text-primary">Todas As Vendas</h2>
         </div>
 
 
